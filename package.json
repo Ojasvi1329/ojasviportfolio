@@ -1,0 +1,36 @@
+{
+  "name": "ojasviportfolio",
+  "version": "1.0.0",
+  "description": "This is my personal portfolio website",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivaslb72/ShivaPortFolio.git"
+  },
+  "keywords": [
+    "React",
+    "Tailwind"
+  ],
+  "author": "Ojasvi Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivaslb72/ShivaPortFolio/issues"
+  },
+  "homepage": "https://github.com/shivaslb72/ShivaPortFolio#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
+    "react-scroll": "^1.8.9"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "postcss": "^8.4.28",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.3"
+  }
+}
