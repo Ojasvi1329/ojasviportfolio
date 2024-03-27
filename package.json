@@ -8,8 +8,7 @@
     "test": "jest"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shivaslb72/ShivaPortFolio.git"
+    "type": "git"
   },
   "keywords": [
     "React",
@@ -18,9 +17,7 @@
   "author": "Ojasvi Patel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shivaslb72/ShivaPortFolio/issues"
   },
-  "homepage": "https://github.com/shivaslb72/ShivaPortFolio#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
